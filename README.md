@@ -27,7 +27,7 @@ RecallSQL is a Python application that seamlessly translates natural language qu
 ### Installation and Usage
 
 ```bash
-git clone https://github.com/your-username/RecallSQL.git
+git clone https://github.com/lazy-szilard/TxtToSQLApp.git
 cd RecallSQL
 python main.py
 ```
